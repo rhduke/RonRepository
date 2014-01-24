@@ -4,23 +4,19 @@
 	<classpathentry kind="src" path="GUI"/>
 	<classpathentry kind="src" path="PDFToImage"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
-	<classpathentry kind="lib" path="C:/Documents and Settings/Ron/My Documents/CSE 2311/Project/TabToPDF/jars/slick-util.jar"/>
-	<classpathentry kind="lib" path="C:/Documents and Settings/Ron/My Documents/CSE 2311/Project/TabToPDF/jars/itextpdf-5.4.5.jar"/>
-	<classpathentry kind="lib" path="C:/Documents and Settings/Ron/My Documents/CSE 2311/Project/TabToPDF/jars/itextpdf-5.4.5-javadoc.jar"/>
-	<classpathentry kind="lib" path="C:/Documents and Settings/Ron/My Documents/CSE 2311/Project/TabToPDF/jars/itextpdf-5.4.5-sources.jar"/>
-	<classpathentry kind="lib" path="C:/Documents and Settings/Ron/My Documents/CSE 2311/Project/TabToPDF/jars/itext-pdfa-5.4.5.jar"/>
-	<classpathentry kind="lib" path="C:/Documents and Settings/Ron/My Documents/CSE 2311/Project/TabToPDF/jars/itext-pdfa-5.4.5-javadoc.jar"/>
-	<classpathentry kind="lib" path="C:/Documents and Settings/Ron/My Documents/CSE 2311/Project/TabToPDF/jars/itext-pdfa-5.4.5-sources.jar"/>
-	<classpathentry kind="lib" path="C:/Documents and Settings/Ron/My Documents/CSE 2311/Project/TabToPDF/jars/itext-xtra-5.4.5.jar"/>
-	<classpathentry kind="lib" path="C:/Documents and Settings/Ron/My Documents/CSE 2311/Project/TabToPDF/jars/itext-xtra-5.4.5-javadoc.jar"/>
-	<classpathentry kind="lib" path="C:/Documents and Settings/Ron/My Documents/CSE 2311/Project/TabToPDF/jars/itext-xtra-5.4.5-sources.jar"/>
-	<classpathentry kind="lib" path="C:/Documents and Settings/Ron/My Documents/CSE 2311/Project/TabToPDF/jars/jpedal_lgpl.jar"/>
-	<classpathentry kind="lib" path="C:/Documents and Settings/Ron/My Documents/CSE 2311/Project/TabToPDF/jars/lwjgl.jar">
-		<attributes>
-			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="C:/Documents and Settings/Ron/My Documents/CSE 2311/Project/TabToPDF/native/lwjglAll/windows"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="C:/Documents and Settings/Ron/My Documents/CSE 2311/Project/TabToPDF/jars/lwjgl_util.jar"/>
-	<classpathentry kind="lib" path="C:/Documents and Settings/Ron/My Documents/CSE 2311/Project/TabToPDF/jars/weblaf-1.25.jar"/>
+	<classpathentry kind="lib" path="jars/itext-pdfa-5.4.5-javadoc.jar"/>
+	<classpathentry kind="lib" path="jars/itext-pdfa-5.4.5-sources.jar"/>
+	<classpathentry kind="lib" path="jars/itext-pdfa-5.4.5.jar"/>
+	<classpathentry kind="lib" path="jars/itext-xtra-5.4.5-javadoc.jar"/>
+	<classpathentry kind="lib" path="jars/itext-xtra-5.4.5-sources.jar"/>
+	<classpathentry kind="lib" path="jars/itext-xtra-5.4.5.jar"/>
+	<classpathentry kind="lib" path="jars/itextpdf-5.4.5-javadoc.jar"/>
+	<classpathentry kind="lib" path="jars/itextpdf-5.4.5-sources.jar"/>
+	<classpathentry kind="lib" path="jars/itextpdf-5.4.5.jar"/>
+	<classpathentry kind="lib" path="jars/jpedal_lgpl.jar"/>
+	<classpathentry kind="lib" path="jars/lwjgl_util.jar"/>
+	<classpathentry kind="lib" path="jars/lwjgl.jar"/>
+	<classpathentry kind="lib" path="jars/slick-util.jar"/>
+	<classpathentry kind="lib" path="jars/weblaf-1.25.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
